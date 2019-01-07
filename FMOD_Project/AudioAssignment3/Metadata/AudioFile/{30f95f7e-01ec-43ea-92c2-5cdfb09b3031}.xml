@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{30f95f7e-01ec-43ea-92c2-5cdfb09b3031}">
+        <property name="assetPath">
+            <value>Ambience/Amb_Room_01_Loop_02.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>9.5</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{fa05994d-6872-4388-aed7-db444233787c}</destination>
+        </relationship>
+    </object>
+</objects>

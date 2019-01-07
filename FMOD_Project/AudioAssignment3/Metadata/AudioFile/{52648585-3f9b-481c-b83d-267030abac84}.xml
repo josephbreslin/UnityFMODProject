@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{52648585-3f9b-481c-b83d-267030abac84}">
+        <property name="assetPath">
+            <value>SFX/Player/Player_Damage/Player_Damage_ 06.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>1</value>
+        </property>
+        <property name="length">
+            <value>1</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{fa05994d-6872-4388-aed7-db444233787c}</destination>
+        </relationship>
+    </object>
+</objects>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="EncodableAsset" id="{78b5a696-49b9-4da0-bd11-0e7163ca0960}">
+        <property name="assetPath">
+            <value>Music/Explore_Cymbal/</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{fa05994d-6872-4388-aed7-db444233787c}</destination>
+        </relationship>
+    </object>
+</objects>

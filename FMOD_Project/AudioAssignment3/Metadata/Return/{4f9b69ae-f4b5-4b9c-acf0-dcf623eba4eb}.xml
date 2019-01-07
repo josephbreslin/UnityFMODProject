@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="MixerReturn" id="{4f9b69ae-f4b5-4b9c-acf0-dcf623eba4eb}">
+        <property name="overridingInputFormat">
+            <value>2</value>
+        </property>
+        <property name="inputFormatOverridden">
+            <value>true</value>
+        </property>
+        <property name="name">
+            <value>Reverb</value>
+        </property>
+        <relationship name="effectChain">
+            <destination>{5a750458-4b6a-4f18-aec3-c82988c65d35}</destination>
+        </relationship>
+        <relationship name="panner">
+            <destination>{2aff9b87-c5e3-4242-8291-fe709a73700c}</destination>
+        </relationship>
+        <relationship name="output">
+            <destination>{1e4e4ea3-bfa8-4f79-9100-73568911f90a}</destination>
+        </relationship>
+    </object>
+    <object class="MixerBusEffectChain" id="{5a750458-4b6a-4f18-aec3-c82988c65d35}">
+        <relationship name="effects">
+            <destination>{a39f03dc-06d8-4017-8512-ca263083ef1e}</destination>
+            <destination>{590e6a80-fbff-4a4d-a57b-06398cf31812}</destination>
+        </relationship>
+    </object>
+    <object class="MixerBusPanner" id="{2aff9b87-c5e3-4242-8291-fe709a73700c}">
+        <property name="overridingOutputFormat">
+            <value>1</value>
+        </property>
+        <property name="outputFormatOverridden">
+            <value>true</value>
+        </property>
+    </object>
+    <object class="SFXReverbEffect" id="{a39f03dc-06d8-4017-8512-ca263083ef1e}">
+        <property name="decayTime">
+            <value>3100</value>
+        </property>
+        <property name="earlyDelay">
+            <value>110</value>
+        </property>
+        <property name="lateDelay">
+            <value>21</value>
+        </property>
+        <property name="HFDecayRatio">
+            <value>54</value>
+        </property>
+        <property name="diffusion">
+            <value>79</value>
+        </property>
+        <property name="highCut">
+            <value>760</value>
+        </property>
+        <property name="earlyLateMix">
+            <value>94</value>
+        </property>
+        <property name="dryLevel">
+            <value>-80</value>
+        </property>
+    </object>
+    <object class="MixerBusFader" id="{590e6a80-fbff-4a4d-a57b-06398cf31812}"/>
+</objects>

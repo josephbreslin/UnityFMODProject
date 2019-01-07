@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="EffectPreset" id="{8fe497ce-8c06-4701-b47b-c708a43ea0fc}">
+        <property name="name">
+            <value>Projectiles</value>
+        </property>
+        <relationship name="folder">
+            <destination>{a671bc4c-17c8-4649-b293-01b03301e3da}</destination>
+        </relationship>
+        <relationship name="effect">
+            <destination>{3c6a8838-3452-436e-bcba-9e63e4c13611}</destination>
+        </relationship>
+    </object>
+    <object class="SpatialiserEffect" id="{3c6a8838-3452-436e-bcba-9e63e4c13611}">
+        <property name="distanceRolloffType">
+            <value>1</value>
+        </property>
+        <property name="maximumDistance">
+            <value>10</value>
+        </property>
+        <property name="extentMode">
+            <value>1</value>
+        </property>
+        <property name="soundSize">
+            <value>9</value>
+        </property>
+        <property name="minimumExtent">
+            <value>120</value>
+        </property>
+    </object>
+</objects>

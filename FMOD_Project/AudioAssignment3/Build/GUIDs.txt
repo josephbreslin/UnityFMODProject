@@ -1,0 +1,32 @@
+{985fd8b9-ef52-45bf-aa14-cdd1db50b9d6} event:/Ambience/Boss_Room
+{c0c875dc-7992-4f40-8390-22add5c67312} event:/Ambience/Outside
+{5df19de2-7e99-4bb6-9831-8f78d0d06945} event:/Ambience/Room_01
+{a3096691-89c5-4abe-a85f-4184ed25b3e2} event:/Ambience/Room_02
+{fb52f2c5-5576-4cb1-9ec8-0d041c8fad31} event:/Ambience/Master_Amb
+{9c465ea5-f0a5-4bbd-af01-f753e7beea54} event:/Music/Game_Over_Stinger
+{3468e25d-2b5d-4e8a-900d-63f9811a4a76} event:/Music/Music
+{b1267b06-9147-49d2-8c58-1ebe2eacb833} event:/Music/Motifs
+{ace3e515-88c7-4c61-863e-bcd67d6c5173} event:/SFX/Characters/NPC/Boss_Damage
+{a191306b-5a75-4e52-ade5-7a83d6ef9297} event:/SFX/Characters/NPC/Boss_Fire
+{9d7dd9c5-173c-4c29-9665-31de2b098fae} event:/SFX/Characters/NPC/Enemy_Damage
+{bb763bfb-1ed2-4e5c-9c94-41147cb7cea1} event:/SFX/Characters/NPC/Enemy_Death
+{160edcb0-0649-4772-a708-fb7314281297} event:/SFX/Characters/NPC/Enemy_Fire
+{ce0d21e4-ecb7-42bf-8591-9acca617aa9e} event:/SFX/Characters/Player/Player_Damage
+{874bb42e-014b-4fe0-91f5-357e3e3ba8c0} event:/SFX/Characters/Player/Player_Fire
+{e61e2190-3ddc-49a1-a213-d04768c60857} event:/SFX/Pick_Ups/Pick_Up_Gun
+{5311907b-11c2-41d6-9e09-66fa615d3546} event:/SFX/Pick_Ups/Pick_Up_Health
+{01fbd911-a936-491a-ba85-77d20207880e} event:/SFX/Pick_Ups/Pick_Up_Orb
+{0f515084-7398-4445-8bbe-336e673651e9} event:/SFX/UI/Restart_Game
+{1e4e4ea3-bfa8-4f79-9100-73568911f90a} bus:/
+{40e475ff-e487-4e33-8589-678eb164819d} bus:/Ambience
+{bc35c031-f5ac-47b7-9443-5c3f5585d5b3} bus:/Music
+{5237ea1f-0a0e-47c4-b3f1-d7de3f96e1c2} bus:/SFX
+{4f9b69ae-f4b5-4b9c-acf0-dcf623eba4eb} bus:/Reverb
+{c6493c4c-7f5c-4462-b11b-88494d8db2dd} snapshot:/Area_Room_01
+{a753d267-6a7e-4f26-a90e-cbd8492dcf2c} snapshot:/Area_Room_02
+{718d9852-392c-4fd5-8b42-3c0ab1e80a9c} snapshot:/Area_Room_Boss
+{0280d130-93ef-42b4-afcf-4c45ddaa5479} snapshot:/Area_Outside
+{22e4a177-c7c9-46bf-9031-e7e2f0ef031a} snapshot:/New Snapshot
+{956398a8-6f21-4283-91bb-d9b795c95f44} bank:/Music
+{2193a874-1921-4fdb-839a-ffc33b19e251} bank:/SFX
+{c2f3db66-88b7-498f-918d-73960a23470a} bank:/Master Bank
