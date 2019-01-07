@@ -14,5 +14,3 @@ Project Notes
 - If you try to run the project before restarting there may be some meta file issues that cause "FMOD event (event name) path not found errors. Save project and restart solves this.
 
 - Try the windows build!
-
-# UnityFMODProject
