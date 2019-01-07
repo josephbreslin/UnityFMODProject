@@ -1,8 +1,9 @@
 # UnityFMODProject
 
+![](Images/GameScreenShot.JPG)
+
 Project Notes
 
-![](Images/Game_Screen_Shot.jpg)
 - Unity Version 2018.3.0b11
 - Unity -> FMOD settings -> FMOD project file Path was set for this folder: 
 	C:\Users\sbgjo\Documents\C15713979_Audio_Assignment_3\FMOD_Project\AudioAssignment3
